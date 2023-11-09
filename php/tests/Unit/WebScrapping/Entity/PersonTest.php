@@ -1,9 +1,10 @@
 <?php
 
-namespace Chuva\Tests\Unit\WebScrapping\WebScrapping\Entity;
+namespace Chuva\Tests\Unit\WebScrapping\Entity;
 
 use Chuva\Php\WebScrapping\Entity\Person;
 use PHPUnit\Framework\TestCase;
+require_once 'php/vendor/autoload.php';
 
 /**
  * Tests requirements for Person.
